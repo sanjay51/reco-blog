@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'RecoCards.com Help',
+  title: 'RecoCards.com Blog',
   tagline: 'Create Group Greeting Cards, Free!',
   favicon: 'img/favicon.ico',
 
@@ -19,7 +19,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'RecoCards.com', // Usually your GitHub org/user name.
-  projectName: 'recocards-help', // Usually your repo name.
+  projectName: 'recocards-blog', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -37,29 +37,18 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        docs: {
+        docs: false,
+        blog: {
+          showReadingTime: true,
           routeBasePath: '/',
-          sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/sanjay51/recocards-help/tree/main/',
+            'https://github.com/sanjay51/reco-blog',
         },
-        blog: false,
-        /*
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-           editUrl:
-            'https://github.com/sanjay51/recocards-help',
-        }, */
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
-        gtag: {
-          trackingID: 'G-TK20H5K48H',
-        }
       }),
     ],
   ],
@@ -76,13 +65,7 @@ const config = {
           src: 'https://d3rs2nclqxzidb.cloudfront.net/other-images/logo3.png',
         },
         items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Help',
-          },
-          // {to: '/blog', label: 'Blog', position: 'right'},
+          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://recocards.com',
             label: 'Back to RecoCards',
@@ -134,35 +117,6 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
-      },
-      algolia: {
-        // The application ID provided by Algolia
-        appId: 'AADMHM37RF',
-  
-        // Public API key: it is safe to commit it
-        apiKey: '674c7dc8da7cc0a3797340c8b1327cf7',
-  
-        indexName: 'help-recocards',
-  
-        // Optional: see doc section below
-        contextualSearch: true,
-  
-        // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
-        externalUrlRegex: 'external\\.com|domain\\.com',
-  
-        // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
-        replaceSearchResultPathname: {
-          from: '/docs/', // or as RegExp: /\/docs\//
-          to: '/',
-        },
-  
-        // Optional: Algolia search parameters
-        searchParameters: {},
-  
-        // Optional: path for search page that enabled by default (`false` to disable it)
-        searchPagePath: 'search',
-  
-        //... other Algolia params
       },
     }),
 };
