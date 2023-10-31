@@ -65,7 +65,7 @@ const config = {
           src: 'https://d3rs2nclqxzidb.cloudfront.net/other-images/logo3.png',
         },
         items: [
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/', label: 'Blog', position: 'left'},
           {
             href: 'https://recocards.com',
             label: 'Back to RecoCards',
