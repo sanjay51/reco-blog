@@ -77,11 +77,19 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Links',
             items: [
               {
-                label: 'Help',
+                label: 'Blog',
                 to: '/',
+              },
+              {
+                label: 'RecoCards Home',
+                to: 'https://recocards.com',
+              },
+              {
+                label: 'Help',
+                to: 'https://help.recocards.com',
               },
             ],
           },
