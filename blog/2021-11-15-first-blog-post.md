@@ -2,8 +2,7 @@
 title: Host a Spooktacular Halloween Contest with Recocards
 slug: first-blog-post
 tags:
-  - hola
-  - holidaygreeting;halloween;forwork;teamevent;teamgame
+  - holidaygreeting
 authors:
   name: Gao Wei
   title: Docusaurus Core Team
