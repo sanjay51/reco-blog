@@ -29,9 +29,7 @@ Are you searching for a versatile platform that enhances team collaboration whil
 
 ![](/img/farewell21.jpg)
 
-3. <h1><a href="https://recocards.com/board/getwellsoondemoboard-80168505860c">Get Well Soon Board</a></h1>[](https://recocards.com/board/getwellsoondemoboard-80168505860c)
-
-Show support and care for team members who are under the weather with thoughtful get well soon messages and virtual hugs, brightening their day and boosting morale.
+3. <h1><a href="https://recocards.com/board/getwellsoondemoboard-80168505860c">Get Well Soon Board</a></h1>[](https://recocards.com/board/getwellsoondemoboard-80168505860c) Show support and care for team members who are under the weather with thoughtful get well soon messages and virtual hugs, brightening their day and boosting morale.
 
 ![](/img/download-10-.jpeg)
 
@@ -45,4 +43,4 @@ Show support and care for team members who are under the weather with thoughtful
 
 With Recocards.com, every occasion becomes an opportunity to connect, communicate, and celebrate. Our intuitive platform makes it easy to create and share interactive cards for any situation, enhancing team collaboration and fostering a culture of appreciation and recognition.
 
-Ready to revolutionize the way your team communicates and celebrates? Sign up for [Recocards Business](https://recocards.com/business) today and discover the endless possibilities for enhancing teamwork and morale.
+Ready to revolutionize the way your team communicates and celebrates? Sign up for <h1 style="color: blue; font-family: Arial, sans-serif;"><a href="https://recocards.com/business" style="text-decoration: none; color: inherit;">Recocards Business</a></h1> today and discover the endless possibilities for enhancing teamwork and morale.
