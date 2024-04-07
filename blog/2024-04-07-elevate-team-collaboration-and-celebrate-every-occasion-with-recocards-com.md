@@ -14,7 +14,23 @@ Are you searching for a versatile platform that enhances team collaboration whil
 
 1. Happy Birthday Celebrations [Board](https://recocards.com/greeting-card/hbdbossdemocard-79862182763c) and [Card](https://recocards.com/greeting-card/hbdbossdemocard-79862182763c): Make birthdays extra special with personalized digital cards that allow team members to send heartfelt wishes and celebrate together, no matter where they are.
 
-![](/img/birthday41.jpg)
+<style>
+
+.center {
+
+  display: block;
+
+  margin-left: auto;
+
+  margin-right: auto;
+
+  width: 50%;
+}
+</style>
+
+<img src="/img/birthday41.jpg" class="center" />
+
+![]()
 
 2. Farewell Farewells [Board](https://recocards.com/board/farewellteammatedemoboard-79862044752c) and [Card](https://recocards.com/greeting-card/farewellteammatedemocard-79862078937c): Bid farewell to departing team members with fond memories and well wishes shared through interactive cards, creating a memorable send-off as they embark on new adventures.
 
