@@ -1,5 +1,5 @@
 ---
-title: Elevate Team Collaboration and Celebrate Every Occasion with Recocards.com
+title: Elevate Team Collaboration and Celebrate Every Occasion with Recocards
 slug: team-collaboration-product-demos
 tags:
   - "#Team-Collaboration"
