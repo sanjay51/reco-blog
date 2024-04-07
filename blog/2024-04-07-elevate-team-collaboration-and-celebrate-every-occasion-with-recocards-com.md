@@ -18,9 +18,7 @@ Are you searching for a versatile platform that enhances team collaboration whil
 
 2. Farewell Farewells [Board](https://recocards.com/board/farewellteammatedemoboard-79862044752c) and [Card](https://recocards.com/greeting-card/farewellteammatedemocard-79862078937c): Bid farewell to departing team members with fond memories and well wishes shared through interactive cards, creating a memorable send-off as they embark on new adventures.
 
-![](/img/farewell37.jpg)
-
-
+![](/img/farewell21.jpg)
 
 3. Get Well Soon [Board](https://recocards.com/board/getwellsoondemoboard-80168505860c): Show support and care for team members who are under the weather with thoughtful get well soon messages and virtual hugs, brightening their day and boosting morale.
 
@@ -28,13 +26,10 @@ Are you searching for a versatile platform that enhances team collaboration whil
 
 4. Team Appreciation [Board](https://recocards.com/board/thankyouteamdemoboard-80168530714c): Celebrate teamwork and collaboration with interactive cards that express gratitude for the collective efforts of the entire team, fostering a sense of unity and camaraderie.
 
-![](/img/congratulations14.jpg)
+![](/img/congratulations6.jpg)
 
 5. Work Anniversary Recognition [Board](https://recocards.com/board/happyanniversarydemoboard-80168631106c): Recognize the dedication and commitment of your team members with personalized cards celebrating their work anniversaries, fostering a culture of appreciation and loyalty.
-
 6. Congratulations for Promotions [Board](https://recocards.com/board/congratulations-sophia-80164433521): Acknowledge career advancements and promotions within the team with congratulatory messages and cheers for continued success and growth.
-
-
 
 With Recocards.com, every occasion becomes an opportunity to connect, communicate, and celebrate. Our intuitive platform makes it easy to create and share interactive cards for any situation, enhancing team collaboration and fostering a culture of appreciation and recognition.
 
