@@ -25,7 +25,7 @@ Are you searching for a versatile platform that enhances team collaboration whil
 
 <img src="/img/birthday41.jpg" class="center" />
 
-2. <h1 style="color: blue; font-family: Arial, sans-serif;"><a href="https://recocards.com/board/farewellteammatedemoboard-79862044752c" style="text-decoration: none; color: inherit;">Farewell Board</a></h1> and <h1 style="color: blue; font-family: Arial, sans-serif;"><a href="https://recocards.com/greeting-card/farewellteammatedemocard-79862078937c" style="text-decoration: none; color: inherit;">Farewell Card</a></h1> Bid farewell to departing team members with fond memories and well wishes shared through interactive cards, creating a memorable send-off as they embark on new adventures.
+2. <h1 style="color: blue; font-family: Arial, sans-serif;"><a href="https://recocards.com/board/farewellteammatedemoboard-79862044752c" style="text-decoration: none; color: inherit;">Farewell Board</a></h1> and <h1 style="color: blue; font-family: Arial, sans-serif;"><a href="https://recocards.com/greeting-card/farewellteammatedemocard-79862078937c" style="text-decoration: none; color: inherit;">Farewell Card</a></h1> Big farewell to departing team members with fond memories and well wishes shared through interactive cards, creating a memorable send-off as they embark on new adventures.
 
 ![](/img/farewell21.jpg)
 
@@ -38,8 +38,7 @@ Are you searching for a versatile platform that enhances team collaboration whil
 ![](/img/congratulations6.jpg)
 
 5. [](https://recocards.com/board/happyanniversarydemoboard-80168631106c)<h1 style="color: blue; font-family: Arial, sans-serif;"><a href="https://recocards.com/board/happyanniversarydemoboard-80168631106c" style="text-decoration: none; color: inherit;">Work Anniversary Board</a></h1> Recognize the dedication and commitment of your team members with personalized cards celebrating their work anniversaries, fostering a culture of appreciation and loyalty.
-
-6. <h1 style="color: blue; font-family: Arial, sans-serif;"><a href="https://recocards.com/board/congratulations-sophia-80164433521" style="text-decoration: none; color: inherit;">Promotion Congratulation Board</a></h1>[](https://recocards.com/board/congratulations-sophia-80164433521) Acknowledge career advancements and promotions within the team with congratulatory messages and cheers for continued success and growth.
+6. <h1 style="color: blue; font-family: Arial, sans-serif;"><a href="https://recocards.com/board/congratulations-sophia-80164433521" style="text-decoration: none; color: inherit;">Promotion Congratulation Board</a></h1>\[](https://recocards.com/board/congratulations-sophia-80164433521) Acknowledge career advancements and promotions within the team with congratulatory messages and cheers for continued success and growth.
 
 With Recocards.com, every occasion becomes an opportunity to connect, communicate, and celebrate. Our intuitive platform makes it easy to create and share interactive cards for any situation, enhancing team collaboration and fostering a culture of appreciation and recognition.
 
