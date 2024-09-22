@@ -16,11 +16,7 @@ Are you searching for a versatile platform that enhances team collaboration whil
 
 
 
-<img src="/img/birthday41.jpg" style="
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;" />
+<img src="/img/birthday41.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 50%;" />
 
 2. <h1 style="color: blue; font-family: Arial, sans-serif;"><a href="https://recocards.com/board/farewellteammatedemoboard-79862044752c" style="text-decoration: none; color: inherit;">Farewell Board</a></h1> and <h1 style="color: blue; font-family: Arial, sans-serif;"><a href="https://recocards.com/greeting-card/farewellteammatedemocard-79862078937c" style="text-decoration: none; color: inherit;">Farewell Card</a></h1> Big farewell to departing team members with fond memories and well wishes shared through interactive cards, creating a memorable send-off as they embark on new adventures.
 
