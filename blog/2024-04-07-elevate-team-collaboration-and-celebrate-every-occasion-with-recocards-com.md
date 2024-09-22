@@ -10,22 +10,17 @@ tags:
   - "#Farewell-Messages"
   - "#Promotions"
 ---
-<style>
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-</style>
-
 Are you searching for a versatile platform that enhances team collaboration while celebrating important milestones and occasions? Look no further than Recocards.com! We're thrilled to unveil our collection of top 6 product demos, each designed to showcase how Recocards.com can transform the way your team communicates and celebrates.
 
 1. <h1 style="color: blue; font-family: Arial, sans-serif;"><a  href="https://recocards.com/board/hdbteammatedemoboard-79862149139c" style="text-decoration: none; color: inherit;">Happy Birthday Board </a></h1> and <h1 style="color: blue; font-family: Arial, sans-serif;"><a href="https://recocards.com/greeting-card/hbdbossdemocard-79862182763c" style="text-decoration: none; color: inherit;">Happy Birthday Card</a></h1> Make birthdays extra special with personalized digital cards that allow team members to send heartfelt wishes and celebrate together, no matter where they are.
 
 
 
-<img src="/img/birthday41.jpg" class="center" />
+<img src="/img/birthday41.jpg" style="
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;" />
 
 2. <h1 style="color: blue; font-family: Arial, sans-serif;"><a href="https://recocards.com/board/farewellteammatedemoboard-79862044752c" style="text-decoration: none; color: inherit;">Farewell Board</a></h1> and <h1 style="color: blue; font-family: Arial, sans-serif;"><a href="https://recocards.com/greeting-card/farewellteammatedemocard-79862078937c" style="text-decoration: none; color: inherit;">Farewell Card</a></h1> Big farewell to departing team members with fond memories and well wishes shared through interactive cards, creating a memorable send-off as they embark on new adventures.
 
